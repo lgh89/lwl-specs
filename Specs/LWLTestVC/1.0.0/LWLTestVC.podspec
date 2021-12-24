@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 	s.platform     =  :ios, '8.0'
-	s.name = 'AKLog'
-	s.version  = '1.0.1'
+	s.name = 'LWLTestVC'
+	s.version  = '1.0.0'
 	s.summary = 'Alink Log'
 	s.homepage = "https://open.aliplus.com"
 	s.license = {
